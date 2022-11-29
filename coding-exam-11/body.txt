@@ -1,0 +1,5 @@
+<body>
+    <header><ul><li>메뉴</li></ul></header>
+    <main><div id="root">hello</div></main>
+    <footer>kdt 클래스</footer>
+</body>
